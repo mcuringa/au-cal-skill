@@ -1,0 +1,191 @@
+{
+  "first-day-winter": {
+    "key": "first-day-winter",
+    "event": "First Day of Classes - Intersession ",
+    "start": "2020-01-04",
+    "end": "",
+    "no-school": ""
+  },
+  "mlk": {
+    "key": "mlk",
+    "event": "Martin Luther King Jr Birthday - No Classes ",
+    "start": "2020-01-18",
+    "end": "",
+    "no-school": "true"
+  },
+  "last-day-winter": {
+    "key": "last-day-winter",
+    "event": "Last Day of Classes - Intersession ",
+    "start": "2020-01-22",
+    "end": "",
+    "no-school": ""
+  },
+  "first-day-spring": {
+    "key": "first-day-spring",
+    "event": "First Day of Classes - Spring ",
+    "start": "2020-01-26",
+    "end": "",
+    "no-school": ""
+  },
+  "last-day-add": {
+    "key": "last-day-add",
+    "event": "Last Day to Add a Course ",
+    "start": "2020-02-08",
+    "end": "",
+    "no-school": ""
+  },
+  "last-day-ind-study": {
+    "key": "last-day-ind-study",
+    "event": "Last Day to Add an Independent Study or Internship ",
+    "start": "2020-02-23",
+    "end": "",
+    "no-school": ""
+  },
+  "last-day-drop": {
+    "key": "last-day-drop",
+    "event": "Last Day to Drop a Course ",
+    "start": "2020-02-23",
+    "end": "",
+    "no-school": ""
+  },
+  "last-day-grading": {
+    "key": "last-day-grading",
+    "event": "Last Day to Change a Course Grading Option ",
+    "start": "2020-02-23",
+    "end": "",
+    "no-school": ""
+  },
+  "last-day-section": {
+    "key": "last-day-section",
+    "event": "Last Day to Process Course Section Change ",
+    "start": "2020-02-23",
+    "end": "",
+    "no-school": ""
+  },
+  "open-planning": {
+    "key": "open-planning",
+    "event": "First Day of Open Planning for Sum and Fall 2021 ",
+    "start": "2020-03-08",
+    "end": "",
+    "no-school": ""
+  },
+  "mini1": {
+    "key": "mini1",
+    "event": "No Classes, Spring Mini-Break ",
+    "start": "2020-03-10",
+    "end": "",
+    "no-school": "true"
+  },
+  "mini2": {
+    "key": "mini2",
+    "event": "No Classes, Spring Mini-Break ",
+    "start": "2020-03-20",
+    "end": "",
+    "no-school": "true"
+  },
+  "mini3": {
+    "key": "mini3",
+    "event": "No Classes, Spring Mini-Break ",
+    "start": "2020-03-21",
+    "end": "",
+    "no-school": "true"
+  },
+  "Summer-registration": {
+    "key": "Summer-registration",
+    "event": "Registration begins for Summer 21 ",
+    "start": "2020-03-22",
+    "end": "",
+    "no-school": ""
+  },
+  "last-day-withdraw": {
+    "key": "last-day-withdraw",
+    "event": "Last Day to Withdraw ",
+    "start": "2020-03-30",
+    "end": "",
+    "no-school": ""
+  },
+  "grad-registration": {
+    "key": "grad-registration",
+    "event": "Graduate registration begins for Fall 21 ",
+    "start": "2020-03-31",
+    "end": "",
+    "no-school": ""
+  },
+  "mini4": {
+    "key": "mini4",
+    "event": "No Classes, Spring Mini-Break ",
+    "start": "2020-04-01",
+    "end": "",
+    "no-school": "true"
+  },
+  "undergrad-registration": {
+    "key": "undergrad-registration",
+    "event": "Undergraduate registration begins for Fall 21 ",
+    "start": "2020-04-05",
+    "end": "",
+    "no-school": ""
+  },
+  "mini5": {
+    "key": "mini5",
+    "event": "No Classes, Spring Mini-Break ",
+    "start": "2020-04-16",
+    "end": "",
+    "no-school": "true"
+  },
+  "research-day": {
+    "key": "research-day",
+    "event": "Research and Creative Works Conference - No Classes ",
+    "start": "2020-04-27",
+    "end": "",
+    "no-school": "true"
+  },
+  "mini6": {
+    "key": "mini6",
+    "event": "No Classes, Spring Mini-Break ",
+    "start": "2020-05-03",
+    "end": "",
+    "no-school": "true"
+  },
+  "makeup1": {
+    "key": "makeup1",
+    "event": "Makeup/Study Day - No classes ",
+    "start": "2020-05-11",
+    "end": "",
+    "no-school": "true"
+  },
+  "makeup2": {
+    "key": "makeup2",
+    "event": "Makeup/Study Day - No classes ",
+    "start": "2020-05-12",
+    "end": "",
+    "no-school": "true"
+  },
+  "makeup3": {
+    "key": "makeup3",
+    "event": "Makeup/Study Day - No classes ",
+    "start": "2020-05-13",
+    "end": "",
+    "no-school": "true"
+  },
+  "finals-week": {
+    "key": "finals-week",
+    "event": "Final Exam period ",
+    "start": "2020-05-14",
+    "end": "2020-05-20",
+    "no-school": ""
+  },
+  "doc-hooding": {
+    "key": "doc-hooding",
+    "event": "Doctoral Hooding ",
+    "start": "2020-05-21",
+    "end": "",
+    "no-school": ""
+  },
+  "graduation": {
+    "key": "graduation",
+    "event": "Commencement Ceremony ",
+    "start": "2020-05-24",
+    "end": "",
+    "no-school": ""
+  }
+}

@@ -1,0 +1,28 @@
+key,event,start,end,no-school
+first-day-winter,First Day of Classes - Intersession ,2020-01-04,,
+mlk,Martin Luther King Jr Birthday - No Classes ,2020-01-18,,true
+last-day-winter,Last Day of Classes - Intersession ,2020-01-22,,
+first-day-spring,First Day of Classes - Spring ,2020-01-26,,
+last-day-add,Last Day to Add a Course ,2020-02-08,,
+last-day-ind-study,Last Day to Add an Independent Study or Internship ,2020-02-23,,
+last-day-drop,Last Day to Drop a Course ,2020-02-23,,
+last-day-grading,Last Day to Change a Course Grading Option ,2020-02-23,,
+last-day-section,Last Day to Process Course Section Change ,2020-02-23,,
+open-planning,First Day of Open Planning for Sum and Fall 2021 ,2020-03-08,,
+mini1,"No Classes, Spring Mini-Break ",2020-03-10,,true
+mini2,"No Classes, Spring Mini-Break ",2020-03-20,,true
+mini3,"No Classes, Spring Mini-Break ",2020-03-21,,true
+Summer-registration,Registration begins for Summer 21 ,2020-03-22,,
+last-day-withdraw,Last Day to Withdraw ,2020-03-30,,
+grad-registration,Graduate registration begins for Fall 21 ,2020-03-31,,
+mini4,"No Classes, Spring Mini-Break ",2020-04-01,,true
+undergrad-registration,Undergraduate registration begins for Fall 21 ,2020-04-05,,
+mini5,"No Classes, Spring Mini-Break ",2020-04-16,,true
+research-day,Research and Creative Works Conference - No Classes ,2020-04-27,,true
+mini6,"No Classes, Spring Mini-Break ",2020-05-03,,true
+makeup1,Makeup/Study Day - No classes ,2020-05-11,,true
+makeup2,Makeup/Study Day - No classes ,2020-05-12,,true
+makeup3,Makeup/Study Day - No classes ,2020-05-13,,true
+finals-week,Final Exam period ,2020-05-14,2020-05-20,
+doc-hooding,Doctoral Hooding ,2020-05-21,,
+graduation,Commencement Ceremony ,2020-05-24,,

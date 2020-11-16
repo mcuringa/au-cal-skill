@@ -1,0 +1,19 @@
+key,event,start,end,no-school
+summer-graduation,Official Summer Graduation Date,2020-08-31,,
+first-day-fall,First Day of Classes,2020-08-31,,
+labor-day,Labor Day Weekend - No Classes,2020-09-05,2020-09-07,true
+last-day-add,Last Day to Add a Course,2020-09-14,,
+last-day-section,Last Day to Process Course Section Change,2020-09-28,,
+last-day-ind-study,Last Day to Add Independent Study or Internship,2020-09-28,,
+last-day-grading,Last Day to Change a Course Grading Option,2020-09-28,,
+last-day-drop,Last Day to Drop a Course,2020-09-28,,
+open-planning,Open Planning Begins for Spring 2021,2020-10-26,,
+last-day-withdraw,Last Day to Withdraw,2020-11-02,,
+election-day,Election Day - No Classes,2020-11-03,,true
+grad-registration,Graduate Registration begins for Spring 21,2020-11-11,,
+undergrad-registration,Undergraduate Registration begins for Spring 21,2020-11-13,,
+last-day-in-person,Last day of in-person instruction,2020-11-24,,
+thanksgiving-break,Thanksgiving Break - No Classes,2020-11-25,2020-11-29,true
+res-halls-close,Residence halls closed for the fall semester,2020-11-25,,
+makeup-day,MakeUp/Study Day,2020-12-14,,
+finals-week,Online/remote final exam period,2020-12-15,2020-12-21,

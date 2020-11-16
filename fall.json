@@ -1,0 +1,128 @@
+{
+  "summer-graduation": {
+    "key": "summer-graduation",
+    "event": "Official Summer Graduation Date",
+    "start": "2020-08-31",
+    "end": "",
+    "no-school": ""
+  },
+  "first-day-fall": {
+    "key": "first-day-fall",
+    "event": "First Day of Classes",
+    "start": "2020-08-31",
+    "end": "",
+    "no-school": ""
+  },
+  "labor-day": {
+    "key": "labor-day",
+    "event": "Labor Day Weekend - No Classes",
+    "start": "2020-09-05",
+    "end": "2020-09-07",
+    "no-school": "true"
+  },
+  "last-day-add": {
+    "key": "last-day-add",
+    "event": "Last Day to Add a Course",
+    "start": "2020-09-14",
+    "end": "",
+    "no-school": ""
+  },
+  "last-day-section": {
+    "key": "last-day-section",
+    "event": "Last Day to Process Course Section Change",
+    "start": "2020-09-28",
+    "end": "",
+    "no-school": ""
+  },
+  "last-day-ind-study": {
+    "key": "last-day-ind-study",
+    "event": "Last Day to Add Independent Study or Internship",
+    "start": "2020-09-28",
+    "end": "",
+    "no-school": ""
+  },
+  "last-day-grading": {
+    "key": "last-day-grading",
+    "event": "Last Day to Change a Course Grading Option",
+    "start": "2020-09-28",
+    "end": "",
+    "no-school": ""
+  },
+  "last-day-drop": {
+    "key": "last-day-drop",
+    "event": "Last Day to Drop a Course",
+    "start": "2020-09-28",
+    "end": "",
+    "no-school": ""
+  },
+  "open-planning": {
+    "key": "open-planning",
+    "event": "Open Planning Begins for Spring 2021",
+    "start": "2020-10-26",
+    "end": "",
+    "no-school": ""
+  },
+  "last-day-withdraw": {
+    "key": "last-day-withdraw",
+    "event": "Last Day to Withdraw",
+    "start": "2020-11-02",
+    "end": "",
+    "no-school": ""
+  },
+  "election-day": {
+    "key": "election-day",
+    "event": "Election Day - No Classes",
+    "start": "2020-11-03",
+    "end": "",
+    "no-school": "true"
+  },
+  "grad-registration": {
+    "key": "grad-registration",
+    "event": "Graduate Registration begins for Spring 21",
+    "start": "2020-11-11",
+    "end": "",
+    "no-school": ""
+  },
+  "undergrad-registration": {
+    "key": "undergrad-registration",
+    "event": "Undergraduate Registration begins for Spring 21",
+    "start": "2020-11-13",
+    "end": "",
+    "no-school": ""
+  },
+  "last-day-in-person": {
+    "key": "last-day-in-person",
+    "event": "Last day of in-person instruction",
+    "start": "2020-11-24",
+    "end": "",
+    "no-school": ""
+  },
+  "thanksgiving-break": {
+    "key": "thanksgiving-break",
+    "event": "Thanksgiving Break - No Classes",
+    "start": "2020-11-25",
+    "end": "2020-11-29",
+    "no-school": "true"
+  },
+  "res-halls-close": {
+    "key": "res-halls-close",
+    "event": "Residence halls closed for the fall semester",
+    "start": "2020-11-25",
+    "end": "",
+    "no-school": ""
+  },
+  "makeup-day": {
+    "key": "makeup-day",
+    "event": "MakeUp/Study Day",
+    "start": "2020-12-14",
+    "end": "",
+    "no-school": ""
+  },
+  "finals-week": {
+    "key": "finals-week",
+    "event": "Online/remote final exam period",
+    "start": "2020-12-15",
+    "end": "2020-12-21",
+    "no-school": ""
+  }
+}
